@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838063656628",
+    "firebase_url": "https://oamkchatappks-default-rtdb.firebaseio.com",
+    "project_id": "oamkchatappks",
+    "storage_bucket": "oamkchatappks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838063656628:android:d4ffe0727d6a06a38dd1e1",
+        "android_client_info": {
+          "package_name": "fi.ksoamk.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838063656628-r3r5sb2dfr49ofoi2pdju7g4sajrtvab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwW7IuWZKpJSRv0kw4n8-MleCAd2bUYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838063656628-r3r5sb2dfr49ofoi2pdju7g4sajrtvab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
